@@ -1,5 +1,5 @@
 $(document).ready( () => {
-    console.log("Hello there.")
+    console.log("What's up, you cool baby?")
     let answer = setNewRiddle();
 
     $('#next-riddle').click(() => { 
@@ -9,6 +9,7 @@ $(document).ready( () => {
     $("#reveal").click(() => {
         $("#answer-box").text(answer);
         $("#answer-box").transition('tada');
+        return false;
     });
 
 });
@@ -22,10 +23,12 @@ function setNewRiddle(){
     $("#answer-box").text('');
     return answer;
 }
+
 function randomIndex(){
     const index = Math.floor(Math.random() * RIDDLES.length) + 1;
     return index;
 }
+
 function getRandomRiddle(){
     return RIDDLES[randomIndex()];
 }
