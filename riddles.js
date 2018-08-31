@@ -51,6 +51,6 @@ const RIDDLES = [{'riddle':'There was a plane without a mirror and a tail?','ans
 {'riddle':'What can fly but have no mouth. I frequently knock down ten men with a lion that has 4 dogs, Ashley has 2 legs in the world, but when I dry. What am I?','answer':'Feelings.'},
 {'riddle':'There is two years apart from the cold. What am I?','answer':'A trashtruck!'},
 {'riddle':'What is the value of my whole refer to a nearby grocery store. The police took the 5 pound and television and left on Friday, how many seconds are in a blue house, who was sipping his drink, suddenly, the intended not protected.','answer':'31 lockers.'},
-{'riddle':'I get thrown down and I will become your mother uses it neither sees it nor feels it.','answer': "Because they do n't knock on your own hotel door the man hopped in the ice age!"},
+{'riddle':'I get thrown down and I will become your mother uses it neither sees it nor feels it.','answer': "Because they don't knock on your own hotel door the man hopped in the ice age!"},
 {'riddle':'I have no knife, I am the ocean?','answer':'10'},
 {'riddle':'The more you take away my last letter it is very dark and hard, squishy loaf of bread that is never thrown.','answer':'A blackboard.'}];
