@@ -6,7 +6,9 @@ html, body{
         background-color: #1B2845;
 
 }
-
+a.access {
+    color:darkblue;
+}
 div#root{
     color: white;
     background-color: #1B2845;
@@ -51,4 +53,10 @@ div.terciary{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+#answer-box{
+    font-family: monospace;
+}
+#riddle-box{
+    font-family: monospace;
 }
